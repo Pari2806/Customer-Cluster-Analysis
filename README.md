@@ -17,8 +17,6 @@ KMeans clustering is performed to segment merchants into distinct groups based o
 # Credit Scoring Algorithm: 
 
 A credit scoring algorithm is developed using merchant payment history and city information. This algorithm helps identify the creditworthiness of merchants, distinguishing between high-risk and low-risk merchants.
-
-# Recommendations:
 # Targeting Strategy: 
 
 Focus advertising and sales efforts on merchants classified as "Target" and "General" clusters, as they are likely to have higher spending scores and contribute significantly to sales.
